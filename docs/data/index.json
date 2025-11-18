@@ -1,0 +1,35 @@
+{
+    "title": "Online Doctor Appointment Website",
+    "description": "A comprehensive web application for managing doctor appointments. This project, developed for the CO227 course, facilitates seamless interaction between patients, doctors, and administrators. Patients can browse for doctors, book appointments, and manage their profiles. Doctors have a dedicated dashboard to view their appointments and manage their schedules. The admin panel provides an overview of the entire system, including managing doctors and viewing all appointments. The system is built with a modern MERN stack (MongoDB, Express, React, Node.js) and includes features like user authentication, online payments, and a responsive user interface.",
+    "team": [
+        {
+            "name": "MADHUSHAN S.K.A.K.",
+            "email": "e21245@eng.pdn.ac.lk",
+            "eNumber": "E/21/245"
+        },
+        {
+            "name": "FONSEKA H.F.S.R.",
+            "email": "e21140@eng.pdn.ac.lk",
+            "eNumber": "E/21/140"
+        },
+        {
+            "name": "ARNIKAN U.",
+            "email": "e21036@eng.pdn.ac.lk",
+            "eNumber": "E/21/036"
+        },
+        {
+            "name": "DARSHANA K.M.S.",
+            "email": "e21077@eng.pdn.ac.lk",
+            "eNumber": " E/21/077"
+        }
+    ],
+    "supervisors": [
+        {
+            "name": "Ms. Yasodha Vimukthi ",
+            "email": ""
+        }
+    ],
+    "tags": ["Web", "MERN", "Healthcare", "CO227", "E21"],
+    "image": "cover_page.jpg",
+    "thumbnail": "thumbnail.jpg"
+}
